@@ -1,0 +1,33 @@
+body {
+    display: inline-block;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 20vh;
+}
+
+#gameArea {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#gameBox {
+    margin: auto ;
+    border: 2px solid black;
+    height: 50vh;
+    width: 40vw;
+}
+
+footer {
+    margin-top: 200px;
+    width: 100vw;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    bottom: 1px;
+}
