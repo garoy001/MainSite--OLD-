@@ -3,8 +3,8 @@
 ---
 
 **Table of Contents**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Home**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./Projects/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Home**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./Projects/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Resume](./Resume/README.md)
 
 ---
@@ -24,8 +24,7 @@
 
 ## Overall Changes:
 
-**v1.0.0 Changes**
---------------
+## **v1.0.0 Changes**
 
 - Inital Commit
 - Created and linked ReadMe's

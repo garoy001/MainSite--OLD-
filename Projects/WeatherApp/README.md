@@ -4,8 +4,8 @@
 
 > **Table of Contents**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](../README.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](../README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Resume](../Resume/README.md)
 
 ---
