@@ -44,3 +44,7 @@
 - Style and add functionality to nav-bar on all pages
 - Add responsive features (expanding cards, revolving images etc.)
 - ~~Update readme's to connect individual sections and organize them~~
+
+## Future Projects
+
+- Food Logging App (tracks and returns data on input food items to track nutrition)
