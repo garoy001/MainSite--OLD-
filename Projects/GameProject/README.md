@@ -1,6 +1,6 @@
 # Current Version - 1.0
 
-## API Project (Project 1)
+## Game Project
 
 > **Table of Contents**
 
