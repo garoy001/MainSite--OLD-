@@ -4,16 +4,16 @@
 
 > **Table of Contents**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Resume](../Resume/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Resume](../Resume/README.md)  
 
 ---
 
 ## Projects
-[Game Project](./GameProject/README.md)
-[API Project](./Project1/README.md)
-[WeatherAPP Project](./WeatherApp/README.md)
+[Game Project](./GameProject/README.md)  
+[API Project](./Project1/README.md)  
+[WeatherAPP Project](./WeatherApp/README.md)  
 
 ---
 
