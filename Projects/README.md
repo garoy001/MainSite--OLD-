@@ -11,9 +11,9 @@
 ---
 
 ## Projects
-[Game Project](./GameProject/README.md)
-[API Project](./Project1/README.md)
-[WeatherAPP Project](./WeatherApp/README.md)
+[Game Project](./GameProject/README.md)  
+[API Project](./Project1/README.md)  
+[WeatherAPP Project](./WeatherApp/README.md)  
 
 ---
 
