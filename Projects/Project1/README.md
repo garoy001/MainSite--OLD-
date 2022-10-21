@@ -29,16 +29,16 @@
 
 ## Basic Project
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow for input of food items (ie. coffee and croissant)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow for input of serving sizes
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow for multiple inputs to then be submitted at once
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow for input of food items (ie. coffee and croissant)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow for input of serving sizes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow for multiple inputs to then be submitted at once  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Return nutrient information
 
 ## Intended Changes
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow nutrition information to be saved
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Provide mapping of daily / then weekly nutrition info
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Calculate nutrition needs / excess and recommend changes based on current week
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Allow nutrition information to be saved  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Provide mapping of daily / then weekly nutrition info  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Calculate nutrition needs / excess and recommend changes based on current week  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Include workout information or calories burned that day to offset nutrition info
 
 ---
@@ -53,7 +53,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 6:** Futher CSS design with scripted design (cards, animation, etc..)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 7** Implement Info-saving with local storage  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 8:** Further Calculation and functionality  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TBD**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TBD**
 
 ---
 
