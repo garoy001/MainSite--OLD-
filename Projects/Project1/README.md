@@ -1,6 +1,6 @@
 # Current Version - 1.0
 
-[Live Site v.1](https://garoy001.github.io/WeatherSite/)
+[Live Site v.1](https://dev.gabrielroyce.com/Projects/Project1/index.html)
 
 ## API Project (Project 1)
 
