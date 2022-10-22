@@ -62,15 +62,23 @@
 | #     | Date       |
 | ----- | ---------- |
 | 1.0.0 | 10/19/2022 |
+| 1.0.1 | 10/22/2022
 
 ---
 
 ## Changes:
 
-**v1.0.0** - Initalized
+**v1.0.0** - Initalized  
+**v1.0.1** - Added wireframes
 
 ---
 
 ## Known Issues:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Everything
+
+---
+
+## Wireframe
+![Mobile Version](img/mobile%20version.PNG)
+![Desktop Version](img/WebVersion.PNG)
