@@ -52,7 +52,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 5:** Add 5 day forecast functionality  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 6:** Futher CSS design with scripted design (cards, animation, etc..)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 7** Implement Info-saving with local storage  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 8:** Further Calculation and functionality  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 8:** Implement Further Calculation and functionality  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TBD**
 
 ---
