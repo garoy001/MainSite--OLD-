@@ -33,7 +33,7 @@ $form.submit((element) => {
 	let locationText = $locationText.val();
 	locationText = locationText.split(' ').join('+');
 	console.log(locationText);
-	const apiCallGeo = `http://api.openweathermap.org/geo/1.0/direct?q=${locationText}&limit=5&appid=2428f89e4496196c553a5b61abe465bf`;
+	const apiCallGeo = `https://api.openweathermap.org/geo/1.0/direct?q=${locationText}&limit=5&appid=2428f89e4496196c553a5b61abe465bf`;
 	$.ajax(apiCallGeo).then((element) => {
 		let lat = element[0].lat;
 		let lon = element[0].lon;

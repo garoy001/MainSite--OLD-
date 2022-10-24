@@ -21,6 +21,7 @@
 | #     | Date       | Section      |
 | ----- | ---------- | ------------ |
 | 1.0.0 | 10/19/2022 | All Sections |
+| 1.1.0 | 10/24/2022 | All Sections |
 
 ## Overall Changes:
 
@@ -29,6 +30,10 @@
 - Inital Commit
 - Created and linked ReadMe's
 - Created and linked files
+
+## **v1.1.0 Changes**
+
+- Added Navigation to all pages
 
 ## Projects Changes:
 
