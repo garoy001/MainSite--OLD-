@@ -23,7 +23,7 @@ var menuLinks = [
 	},
 	{
 		text: 'Resume',
-		href: '#',
+		href: 'https://dev.gabrielroyce.com/Resume/resumepage.html',
 	},
 ];
 
