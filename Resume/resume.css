@@ -17,6 +17,17 @@ footer p {
 	font-size: 0.75em;
 }
 
+#images {
+    position: relative;
+    left: 0;
+    margin: 0;
+}
+
+#images img {
+	object-fit: contain;
+    width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
 	footer {
 		flex-direction: column;
