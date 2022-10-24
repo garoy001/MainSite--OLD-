@@ -52,7 +52,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 5:** Add 5 day forecast functionality  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 6:** Futher CSS design with scripted design (cards, animation, etc..)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 7** Implement Info-saving with local storage  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 8:** Further Calculation and functionality  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stage 8:** Implement Further Calculation and functionality  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TBD**
 
 ---
@@ -62,15 +62,23 @@
 | #     | Date       |
 | ----- | ---------- |
 | 1.0.0 | 10/19/2022 |
+| 1.0.1 | 10/22/2022
 
 ---
 
 ## Changes:
 
-**v1.0.0** - Initalized
+**v1.0.0** - Initalized  
+**v1.0.1** - Added wireframes
 
 ---
 
 ## Known Issues:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Everything
+
+---
+
+## Wireframe
+![Mobile Version](img/mobile%20version.PNG)
+![Desktop Version](img/WebVersion.PNG)
