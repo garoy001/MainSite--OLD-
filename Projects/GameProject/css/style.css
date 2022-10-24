@@ -24,10 +24,28 @@ h1{
 }
 
 footer {
-    margin-top: 200px;
-    width: 100vw;
-    position: relative;
-    text-align: center;
-    align-items: center;
-    bottom: 1px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	bottom: 0px;
+}
+#name {
+	align-items: center;
+}
+#contact {
+	position: fixed;
+	left: 10px;
+	bottom: 0px;
+}
+footer p {
+	font-size: 0.75em;
+}
+
+@media only screen and (max-width: 600px) {
+	footer {
+		flex-direction: column;
+		margin-bottom: 2vh;
+		margin-left: 10px;
+	}
 }
