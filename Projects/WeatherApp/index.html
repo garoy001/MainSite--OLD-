@@ -6,11 +6,18 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="script.js" defer></script>
+		<script src="../../NavBar.js" defer></script>
+		<link rel="stylesheet" href="../../NavBar.css" />
 		<link rel="stylesheet" href="style.css" />
+
 		<title>Weather App</title>
 	</head>
 	<body>
 		<header>
+			<nav id="navigation-bar">
+				<nav id="top-menu"></nav>
+				<nav id="sub-menu"></nav>
+			</nav>
 			<h1 class="title">WEATHER APP</h1>
 		</header>
 		<main>
@@ -19,12 +26,10 @@
 				<input type="submit" id="locationSubmit" />
 			</form>
 			<div id="weatherToday">
-				<img id="weatherImage">
+				<img id="weatherImage" />
 				<div id="weatherInfoToday"></div>
 			</div>
-			<div id="5day">
-
-			</div>
+			<div id="5day"></div>
 		</main>
 		<footer></footer>
 	</body>
