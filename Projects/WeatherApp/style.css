@@ -1,0 +1,34 @@
+main {
+	border: black solid 2px;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    padding: 10%;
+}
+
+.title {
+    text-align: center;
+}
+
+header {
+	border: black solid 10px;
+	height: 20vh;
+}
+
+#weatherToday {
+	border: blue solid 2px;
+	width: 500px;
+	height: 500px;
+    margin: 10%;
+}
+#weatherImage {
+	height: 60%;
+	width: 100%;
+	background-color: green;
+}
+
+#weatherInfoToday {
+	border: red 1px solid;
+	height: 35%;
+}
