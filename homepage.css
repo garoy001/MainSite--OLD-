@@ -16,14 +16,26 @@ footer {
 	position: fixed;
 	bottom: 0px;
 }
-#name{
-    align-items: center;
+#name {
+	align-items: center;
 }
-#contact{
-    position: fixed;
-    left: 10px;
-    bottom: 0px;
+#contact {
+	position: fixed;
+	left: 10px;
+	bottom: 0px;
 }
 * {
 	box-sizing: border-box;
+}
+
+footer p {
+	font-size: 0.75em;
+}
+
+@media only screen and (max-width: 600px) {
+	footer {
+		flex-direction: column;
+		margin-bottom: 2vh;
+		margin-left: 10px;
+	}
 }

@@ -33,7 +33,7 @@
 
 ## **v1.1.0 Changes**
 
-- Added Navigation to all pages
+ - Added Navigation to all pages
 
 ## Projects Changes:
 
