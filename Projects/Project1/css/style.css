@@ -17,14 +17,27 @@ footer p {
 
 .appArea {
 	grid-area: appArea;
+	height: 100%;
+	width: 100%;
 }
 
 .formArea {
 	grid-area: formArea;
+	display: grid;
+	grid-template-columns: auto;
+	grid-template-rows: auto;
+	grid-template-areas:
+		'previousTitle'
+		'previousResults'
+		'ingredientInput';
 }
 
 #ingredientInput {
 	grid-area: ingredientInput;
+}
+
+#previousTitle {
+	grid-area: previousTitle;
 }
 
 .resultsArea {
@@ -41,8 +54,24 @@ footer {
 	justify-content: end;
 }
 
-h2{
+h2 {
 	text-align: center;
+}
+
+.hiddenItemHide {
+	display: none;
+}
+
+#previousResults {
+	grid-area: previousResults;
+}
+
+.previousContainer {
+	grid-area: previousContainer;
+}
+
+.previousImage {
+	object-fit: scale-down;
 }
 
 .appArea {

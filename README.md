@@ -22,6 +22,7 @@
 | ----- | ---------- | ------------ |
 | 1.0.0 | 10/19/2022 | All Sections |
 | 1.1.0 | 10/24/2022 | All Sections |
+| 1.1.1 | 10/29/2022 | All Sections |
 
 ## Overall Changes:
 
@@ -33,7 +34,11 @@
 
 ## **v1.1.0 Changes**
 
- - Added Navigation to all pages
+- Added Navigation to all pages
+
+## **v1.1.1 Changes**
+
+- Cosmetic Changes applied to all pages
 
 ## Projects Changes:
 
@@ -46,7 +51,7 @@
 ## Intended Changes
 
 - Complete Projects/Update Respective Files
-- Style and add functionality to nav-bar on all pages
+- ~~Style and add functionality to nav-bar on all pages~~
 - Add responsive features (expanding cards, revolving images etc.)
 - ~~Update readme's to connect individual sections and organize them~~
 
