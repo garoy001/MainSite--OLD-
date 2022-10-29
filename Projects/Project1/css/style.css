@@ -17,8 +17,8 @@ footer p {
 
 .appArea {
 	grid-area: appArea;
-	height: 100%;
-	width: 100%;
+	height: 100vh;
+	width: 100vw;
 }
 
 .formArea {
@@ -64,7 +64,7 @@ h2 {
 
 #previousResults {
 	grid-area: previousResults;
-	display: flex;
+	display: inline-flex;
 	width: 100%;
 }
 
@@ -72,7 +72,7 @@ h2 {
 	grid-area: previousContainer;
 }
 
-.previousContainer:hover{
+.previousContainer:hover {
 	cursor: pointer;
 	opacity: 80%;
 }
