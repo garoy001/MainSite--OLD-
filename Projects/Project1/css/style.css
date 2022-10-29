@@ -64,14 +64,22 @@ h2 {
 
 #previousResults {
 	grid-area: previousResults;
+	display: flex;
+	width: 100%;
 }
 
 .previousContainer {
 	grid-area: previousContainer;
 }
 
+.previousContainer:hover{
+	cursor: pointer;
+	opacity: 80%;
+}
+
 .previousImage {
-	object-fit: scale-down;
+	object-fit: cover;
+	height: 100px;
 }
 
 .appArea {

@@ -38,11 +38,12 @@ function renderData(foodInfo) {
 }
 
 function renderPrevious() {
+	$previousResults.html('');
 	previousResults.forEach((element) => {
 		$previousResults.append(`
 		<div class="previousContainer">
 		<img src=${element.image} class="previousImage">
-		<h2 class="previousLabe">${element.label}</h2>
+		<h4 class="previousLabel">${element.label}</h4>
 		</div>
 		`);
 	});
