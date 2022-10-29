@@ -1,9 +1,9 @@
 /* CSS Custom Properties */
 
 :root {
-	--main-bg: #4a4e4d;
-	--top-menu-bg: #0e9aa7;
-	--sub-menu-bg: #3da4ab;
+	--main-bg: #3c3c48;
+	--top-menu-bg: #4a5159;
+	--sub-menu-bg: #668f88;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 	margin: 0;
 	display: grid;
 	grid-template-rows: 3rem auto;
-	color: white;
+	color: #f6f6ec;
 }
 
 .flex-ctr {
