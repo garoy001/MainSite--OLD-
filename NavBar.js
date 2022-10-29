@@ -66,6 +66,7 @@ function buildSubMenu(targetSubLinks) {
 	for (let link of targetSubLinks) {
 		const newEl = document.createElement('a');
 		newEl.setAttribute('href', link.href);
+		newEl.classList.add('subMenuList');
 		newEl.innerHTML = link.text;
 		subMenuEl.append(newEl);
 	}

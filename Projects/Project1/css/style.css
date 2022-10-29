@@ -5,35 +5,71 @@ body {
 #name {
 	align-items: center;
 }
+
 #contact {
-	position: fixed;
+	display: flex;
+	position: relative;
 	left: 10px;
 	bottom: 0px;
+}
+
+header {
+	text-align: center;
+}
+
+footer p {
+	font-size: 0.75em;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+}
+
+.appArea {
+	grid-area: appArea;
+}
+
+.formArea {
+	grid-area: formArea;
+}
+
+#ingredientInput {
+	grid-area: ingredientInput;
+}
+
+.resultsArea {
+	grid-area: resultsArea;
+}
+#titleBar {
+	grid-area: title;
 }
 
 footer {
-	width: 100%;
-	display: flex;
-	justify-content: center;
-	position: fixed;
-	bottom: 0px;
+	grid-area: footer;
+}
+
+#contact {
+	grid-area: contact;
 }
 #name {
-	align-items: center;
+	grid-area: name;
+	position: relative;
 }
-#contact {
-	position: fixed;
-	left: 10px;
-	bottom: 0px;
-}
-footer p {
-	font-size: 0.75em;
+.appArea {
+	width: 100vw;
+	height: 100vh;
+	display: grid;
+	grid-template-columns: 1fr 6fr 1fr;
+	grid-template-rows: auto;
+	grid-template-areas:
+		'. title .'
+		'. formArea .'
+		'. resultsArea .'
+		'. resultsArea .'
+		'. resultsArea .'
+		'. . .'
+		'. . .'
+		'footer footer footer';
 }
 
 @media only screen and (max-width: 600px) {
-	footer {
-		flex-direction: column;
-		margin-bottom: 2vh;
-		margin-left: 10px;
-	}
 }
